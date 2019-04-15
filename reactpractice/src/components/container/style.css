@@ -1,0 +1,14 @@
+.image-flexbox {
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: 	#708090;
+  margin-bottom: 30px;
+  /* :#191970; */
+}
+
+img.image-card {
+  margin: 15px;
+  border: 4px solid rgb(22, 66, 71);
+  box-shadow: 5px 5px 10px rgb(37, 60, 110); 
+}
